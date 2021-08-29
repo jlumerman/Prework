@@ -13,9 +13,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/a/LSMakle' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a [walkthrough](https://imgur.com/a/LSMakle) of implemented user stories
 
 GIF created with [Ezgif](https://ezgif.com/video-to-gif) and privately hosted on [Imgur](https://imgur.com/)
 
